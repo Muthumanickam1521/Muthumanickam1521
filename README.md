@@ -60,8 +60,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Muthumanickam1521&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-<br clear="both">
-
-<img align="left" height="300" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/31532d7d378053de3b8bf23c6e7bfae3-1.gif"  />
-
