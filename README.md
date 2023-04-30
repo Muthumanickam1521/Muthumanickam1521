@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/e99ebbea9b97b0eb6c21ec49247354c453de695c1586178666e02e05fb3aca6c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" align="center" height="" width="600" />
+<img src="https://camo.githubusercontent.com/e99ebbea9b97b0eb6c21ec49247354c453de695c1586178666e02e05fb3aca6c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" align="center" height="350" width="800" />
 </div>  
   
 
@@ -49,14 +49,12 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthumanickam1521&hide_border=true&layout=compact" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muthumanickam1521&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthumanickam1521&hide_progress=falsedark&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthumanickam1521&show_icons=true&theme=dark)
+<br/>
+<img src= 'https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif' align="right" height="200" width="500" />
