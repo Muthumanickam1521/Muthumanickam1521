@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Muthumanickam1521/Muthumanickam1521/output/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/snake.yml" alt="Snake animation" />
 
 ###
