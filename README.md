@@ -62,14 +62,6 @@ prodfessiona
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muthumanickam1521/Muthumanickam1521/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muthumanickam1521/Muthumanickam1521/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muthumanickam1521/Muthumanickam1521/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <img align="left" height="200" src="https://bair.berkeley.edu/static/blog/end_to_end/pr2_classifier.gif"  />
