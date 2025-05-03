@@ -76,12 +76,6 @@ prodfessiona
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Mu" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
