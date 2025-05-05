@@ -1,3 +1,69 @@
+# 👋 Hi, I'm Muthumanickam
+
+🎯 Aspiring **Machine Learning Engineer** | 💻 Currently: Data Scientist @ Syngene  
+📍 Based in Bangalore, India | 🔬 Physics + Data Science background
+
+---
+
+## 🧠 About Me
+
+I'm passionate about building AI systems that solve real-world problems — from automating ML workflows to deploying intelligent document processing and deep learning applications. I enjoy working at the intersection of **data, models, and deployment**.
+
+My current work at Syngene involves:
+- Automating end-to-end ML pipelines for chemical data (QSPR problems)
+- Feature engineering with `RDKit`, `PaDEL-Descriptor`
+- Model selection, tuning (`Optuna`, `GridSearchCV`)
+- Seamless deployment for internal users via production APIs
+
+---
+
+## 🔧 Technical Skills
+
+- **Languages:** Python, SQL, Bash
+- **ML & DL:** Scikit-learn, PyTorch, TensorFlow, XGBoost, MLPs, CNNs, Transformers
+- **MLOps:** MLflow, FastAPI, Docker, GitHub Actions, Streamlit
+- **NLP & RAG:** LlamaIndex, ChromaDB, LangChain, Hugging Face
+- **CV:** OpenCV, torchvision, Grad-CAM
+- **Data Handling:** Pandas, NumPy, RDKit, PaDELpy
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **🔄 Automated ML Workflow**  
+End-to-end pipeline for regression/classification with SMILES handling, feature selection, Optuna tuning & model deployment.
+
+🔹 **📄 RAG System (Text Retrieval App)**  
+Custom RAG pipeline for structured/unstructured data using LlamaIndex, ChromaDB, Streamlit interface.
+
+🔹 **🍊 Fruit Classifier (CV Project)**  
+Image classifier to distinguish orange vs. musumbi using CNNs; trained & deployed with Streamlit.
+
+🔹 **🧠 Tiny LLM Fine-Tuning**  
+Few-shot summarization using LoRA on a small LLaMA model (low-resource fine-tuning experiment).
+
+---
+
+## 🌱 Current Focus
+
+- Building a strong **ML engineering portfolio**
+- Exploring **MLOps tools** (monitoring, testing, deployment best practices)
+- Deepening intuition in **LLMs**, **RAG**, and **reinforcement learning**
+
+---
+
+## 📫 Get in Touch
+
+- 📧 muthumanickam.ds@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muthumanickam)  
+- 🌐 [Portfolio (Coming soon on Notion)](#)
+
+---
+
+Thanks for visiting! 🌟 Feel free to check out my projects or reach out if you'd like to collaborate.
+
+
+
 <h2 align="left">Hi 👋! My name is Muthumanickam and I'm a Data Scientist @ Syngene International Limited, from Bangalore</h2>
 
 ###
