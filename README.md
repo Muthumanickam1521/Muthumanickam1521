@@ -35,59 +35,58 @@
 ###
 
 <br clear="both">
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" alt="tensorflow logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="pytorch logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="45" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="fastapi logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="ubuntu logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" alt="gitlab logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="45" alt="latex logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="45" alt="networkx logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45" alt="opencv logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="45" alt="openal logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="45" alt="putty logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="45" alt="vim logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/markdown/000000" height="45" alt="markdown logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/markdown/000000" height="30" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" />
 </div>
 
 ###
