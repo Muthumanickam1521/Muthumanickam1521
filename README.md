@@ -39,7 +39,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="tensorflow logo"  />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" alt="tensorflow logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="pytorch logo"  />
   <img width="20" />
